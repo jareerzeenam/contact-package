@@ -12,3 +12,9 @@ The recommended way to install Jareer's Contact form is through
 ```bash
 composer require jareer/contact
 ```
+
+After installation, publish the package in your project 
+
+```bash
+php artisan vendor:publish
+```
