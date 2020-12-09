@@ -1,0 +1,19 @@
+{
+    "name": "jareer/contact",
+    "description": "This will create a contact form which will send email to admin and save contact data in the database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jareer",
+            "email": "jareerzeenam.28@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jareer\\Contact\\": "src/"
+        }
+    }
+}
