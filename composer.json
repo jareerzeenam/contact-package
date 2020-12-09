@@ -15,5 +15,12 @@
         "psr-4": {
             "Jareer\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jareer\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
